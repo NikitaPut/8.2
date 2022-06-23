@@ -1,0 +1,1489 @@
+﻿Log file open, 06/22/22 04:48:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: collisions
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410482
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: G:/programmi/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.22-01.48.43:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.22-01.48.43:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:743][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.22-01.48.43:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.22-01.48.43:750][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.22-01.48.43:750][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.22-01.48.43:750][  0]LogHAL: Display: Platform has ~ 16 GB [17041694720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.22-01.48.43:750][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.22-01.48.43:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.22-01.48.43:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.22-01.48.43:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Scalability.ini]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.22-01.48.43:753][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.22-01.48.43:754][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.22-01.48.43:754][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.22-01.48.43:754][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.22-01.48.43:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Engine.ini]
+[2022.06.22-01.48.43:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Config/Windows/Editor.ini]
+[2022.06.22-01.48.43:754][  0]LogInit: Computer: DESKTOP-13JHO61
+[2022.06.22-01.48.43:754][  0]LogInit: User: SWAdmin
+[2022.06.22-01.48.43:754][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.06.22-01.48.43:754][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.22-01.48.43:754][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.22-01.48.43:754][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.22-01.48.43:754][  0]LogMemory: Process Physical Memory: 140.67 MB used, 140.67 MB peak
+[2022.06.22-01.48.43:754][  0]LogMemory: Process Virtual Memory: 115.26 MB used, 115.26 MB peak
+[2022.06.22-01.48.43:754][  0]LogMemory: Physical Memory: 5501.93 MB used,  10750.30 MB free, 16252.23 MB total
+[2022.06.22-01.48.43:754][  0]LogMemory: Virtual Memory: 134207024.00 MB used,  10707.30 MB free, 134217728.00 MB total
+[2022.06.22-01.48.43:759][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.22-01.48.43:780][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.22-01.48.43:781][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.06.22-01.48.43:781][  0]LogInit: Overriding language with editor locale configuration option (ru).
+[2022.06.22-01.48.44:032][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.22-01.48.44:044][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.22-01.48.44:056][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.22-01.48.44:056][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.22-01.48.44:190][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.22-01.48.44:193][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.22-01.48.44:193][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.22-01.48.44:193][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.22-01.48.44:193][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.22-01.48.44:232][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2022.06.22-01.48.44:232][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 620
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     DeviceId    : 5916
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     SubSysId    : 11341025
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     Revision    : 0002
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     SharedSystemMemory : 8520847360 bytes
+[2022.06.22-01.48.44:237][  0]LogD3D11RHI:     AdapterLuid : 0 52051
+[2022.06.22-01.48.44:242][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.22-01.48.44:242][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.22-01.48.44:242][  0]LogWindows: EnumDisplayDevices:
+[2022.06.22-01.48.44:242][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2022.06.22-01.48.44:243][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.06.22-01.48.44:243][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.06.22-01.48.44:243][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.06.22-01.48.44:243][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2022.06.22-01.48.44:243][  0]LogD3D11RHI:   Driver Version: 30.0.101.1340 (internal:30.0.101.1340, unified:30.0.101.1340)
+[2022.06.22-01.48.44:243][  0]LogD3D11RHI:      Driver Date: 2-3-2022
+[2022.06.22-01.48.44:243][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 620
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     DeviceId    : 5916
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     SubSysId    : 11341025
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     Revision    : 0002
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     SharedSystemMemory : 8520847360 bytes
+[2022.06.22-01.48.44:253][  0]LogD3D11RHI:     AdapterLuid : 0 52051
+[2022.06.22-01.48.44:289][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.06.22-01.48.44:344][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2022.06.22-01.48.44:344][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2022.06.22-01.48.44:345][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2022.06.22-01.48.44:345][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.06.22-01.48.44:345][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.22-01.48.44:345][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.22-01.48.44:354][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2022.06.22-01.48.45:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.22-01.48.45:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.22-01.48.45:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.22-01.48.45:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.22-01.48.45:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.22-01.48.45:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.22-01.48.45:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.22-01.48.45:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.22-01.48.45:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.22-01.48.45:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.22-01.48.45:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.22-01.48.45:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.22-01.48.45:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.22-01.48.45:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.22-01.48.45:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.22-01.48.45:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.22-01.48.45:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.22-01.48.45:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.22-01.48.45:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.22-01.48.45:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.22-01.48.45:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.22-01.48.45:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.22-01.48.45:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.22-01.48.45:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.22-01.48.45:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.22-01.48.45:701][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.22-01.48.45:732][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.22-01.48.45:766][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.22-01.48.45:766][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../папки/проэкты программирования/Unreal projects/collisions/Intermediate/Shaders/WorkingDirectory/3140/).
+[2022.06.22-01.48.45:766][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SWAdmin/AppData/Local/Temp/UnrealShaderWorkingDir/2FC0A66647B7CAE9AE2FF89ABBD5587E/'.
+[2022.06.22-01.48.45:766][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.22-01.48.45:766][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.22-01.48.45:766][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.22-01.48.46:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.22-01.48.46:793][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/SWAdmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.22-01.48.46:793][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SWAdmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.22-01.48.46:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../папки/проэкты программирования/Unreal projects/collisions/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.22-01.48.46:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.22-01.48.46:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../папки/проэкты программирования/Unreal projects/collisions/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.22-01.48.46:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.22-01.48.46:814][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.22-01.48.46:814][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.22-01.48.46:814][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.22-01.48.46:818][  0]LogDerivedDataCache: Speed tests for C:/Users/SWAdmin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.06.22-01.48.46:818][  0]LogDerivedDataCache: Display: Performance to C:/Users/SWAdmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1981.85MBs, RandomWriteSpeed=291.80MBs. Assigned SpeedClass 'Local'
+[2022.06.22-01.48.46:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SWAdmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.22-01.48.46:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.22-01.48.46:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.22-01.48.46:884][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.22-01.48.46:884][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.22-01.48.46:916][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.06.22-01.48.47:217][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.22-01.48.47:217][  0]LogInit: Active device profile: [0000023F11C58D00][0000023F03AC2500 49] Windows
+[2022.06.22-01.48.47:217][  0]LogInit: Profiles: [0000023F11C58D00][0000023F03AC2500 49] Windows, [0000023F11C0E300][0000023F03ACA680 49] WindowsNoEditor, [0000023F11C59C00][0000023F03ACE800 49] WindowsServer, [0000023F11C0F100][0000023F03AD2980 49] WindowsClient, [0000023F11C5A900][0000023F03AD6B00 49] IOS, [0000023F11C0DA00][0000023F03ADAC80 49] iPadAir, [0000023F11C5BE00][0000023F03AC6DC0 49] iPadAir2, [0000023F11BBD100][0000023F10C11000 49] IPadPro, [0000023F11BBD200][0000023F03ADF040 49] iPadAir3, [0000023F11C0CC00][0000023F10C15180 49] iPadAir4, [0000023F11BBDE00][0000023F10C1D300 49] iPadMini2, [0000023F11C0F300][0000023F10C21480 49] iPadMini3, [0000023F11BBF900][0000023F10C25600 49] iPadMini4, [0000023F11C0D000][0000023F10C29780 49] iPadMini5, [0000023F11BF0A00][0000023F10C31A40 49] iPhone6, [0000023F11BF0B00][0000023F10C2DA80 49] iPodTouch6, [0000023F11C5AD00][0000023F10C381C0 49] iPhone7, [0000023F11C5AE00][0000023F10C34200 49] iPodTouch7, [0000023F11BBFE00][0000023F10C3C380 49] iPhone5S, [0000023F11BBC300][0000023F10C40500 49] iPhone6Plus, [0000023F11BF3D00][0000023F10C44680 49] iPhone6S, [0000023F11BBF700][0000023F10C48800 49] iPhone6SPlus, [0000023F11BF2600][0000023F10C4C980 49] iPhone7Plus, [0000023F11BBD900][0000023F10C50B00 49] iPhoneSE, [0000023F11BF0F00][0000023F10C54C80 49] iPhone8, [0000023F11BBD400][0000023F10C58E00 49] iPhone8Plus, [0000023F11BF1F00][0000023F10C18F40 49] iPhoneX, [0000023F11C5B900][0000023F10C5D080 49] iPhoneXS, [0000023F11BF1700][0000023F10C611C0 49] iPhoneXSMax, [0000023F11C59B00][0000023F10C65300 49] iPhoneXR, [0000023F11BF3E00][0000023F10C6D480 49] iPhone11, [0000023F11C58500][0000023F10C71600 49] iPhone11Pro, [0000023F11BF1C00][0000023F10C75780 49] iPhone11ProMax, [0000023F11C59E00][0000023F10C79900 49] iPhoneSE2, [0000023F11BF3900][0000023F10C7DA80 49] iPhone12Mini, [0000023F11C58700][0000023F10C81C00 49] iPhone12, [0000023F11BF0200][0000023F10C84200 49] iPhone12Pro, [0000023F11C5A100][0000023F10C88380 49] iPhone12ProMax, [0000023F11BF2000][0000023F10C8C500 49] iPadPro105, [0000023F11C59400][0000023F10C90680 49] iPadPro129, [0000023F11BF0700][0000023F10C94800 49] iPadPro97, [0000023F11C58100][0000023F10C98980 49] iPadPro2_129, [0000023F11BF3100][0000023F10C9CB00 49] iPad5, [0000023F11C5A300][0000023F0B9F8C80 49] iPad6, [0000023F11BF1100][0000023F0B9FCE00 49] iPad7, [0000023F11C5B500][0000023F0BA00F80 49] iPad8, [0000023F11BF0400][0000023F0BA05100 49] iPadPro11, [0000023F11C58B00][0000023F10C69240 49] iPadPro2_11, [0000023F11BF2100][0000023F0BA09380 49] iPadPro3_129, [0000023F11C5AA00][0000023F0BA0D4C0 49] iPadPro4_129, [0000023F11BF0300][0000023F0BA15640 49] AppleTV, [0000023F11C59A00][0000023F0BA197C0 49] AppleTV4K, [0000023F11BF1300][0000023F0BA1D940 49] TVOS, [0000023F11C58600][0000023F0BA21AC0 49] Mac, [0000023F11BF3400][0000023F0BA240C0 49] MacClient, [0000023F11C59800][0000023F0BA28240 49] MacNoEditor, [0000023F11BF1900][0000023F0BA2C3C0 49] MacServer, [0000023F11C5B000][0000023F0BA30540 49] Linux, [0000023F11BF0500][0000023F0BA346C0 49] LinuxAArch64, [0000023F11C5BC00][0000023F0BA38840 49] LinuxNoEditor, [0000023F11BF2300][0000023F0BA3C9C0 49] LinuxAArch64NoEditor, [0000023F11C59500][0000023F0BA40B40 49] LinuxClient, [0000023F11BF2800][0000023F0BA44CC0 49] LinuxAArch64Client, [0000023F11C58F00][0000023F0BA48E40 49] LinuxServer, [0000023F11BF2400][0000023F0BA4CFC0 49] LinuxAArch64Server, [0000023F11C59000][0000023F0BA51140 49] Android, [0000023F11BF3300][0000023F0BA552C0 49] Android_Low, [0000023F11C5A500][0000023F0BA11400 49] Android_Mid, [0000023F11BF1400][0000023F0BA59540 49] Android_High, [0000023F11C59200][0000023F0BA5D680 49] Android_Default, [0000023F11BF0800][0000023F0BA617C0 49] Android_Adreno4xx, [0000023F11C58800][0000023F0BA69940 49] Android_Adreno5xx_Low, [0000023F11BBEB00][0000023F0BA6DAC0 49] Android_Adreno5xx, [0000023F11C0C400][0000023F0B8680C0 49] Android_Adreno6xx, [0000023F11BBE900][0000023F0B86C240 49] Android_Adreno6xx_Vulkan, [0000023F11C0EC00][0000023F0B8703C0 49] Android_Mali_T6xx, [0000023F11BBF100][0000023F0B874540 49] Android_Mali_T7xx, [0000023F11C0F900][0000023F0B8786C0 49] Android_Mali_T8xx, [0000023F11BBD300][0000023F0B87C840 49] Android_Mali_G71, [0000023F11C0E900][0000023F0B8809C0 49] Android_Mali_G72, [0000023F11BBD000][0000023F0B884B40 49] Android_Mali_G72_Vulkan, [0000023F11C0E500][0000023F0B888CC0 49] Android_Mali_G76, [0000023F11BBE100][0000023F0B88CE40 49] Android_Mali_G76_Vulkan, [0000023F11C0DB00][0000023F0B890FC0 49] Android_Mali_G77, [0000023F11BBFB00][0000023F0B895140 49] Android_Mali_G77_Vulkan, [0000023F11C0EF00][0000023F0B8992C0 49] Android_Mali_G78, [0000023F11BBF500][0000023F0B89D440 49] Android_Mali_G78_Vulkan, [0000023F11C0E800][0000023F0BA65580 49] Android_Mali_G710, [0000023F11BBFD00][0000023F0B8A16C0 49] Android_Mali_G710_Vulkan, [0000023F11C0D100][0000023F0B8A5800 49] Android_Vulkan_SM5, [0000023F11BBE700][0000023F0B8A9940 49] Android_PowerVR_G6xxx, [0000023F11C0C100][0000023F0B8B1AC0 49] Android_PowerVR_GT7xxx, [0000023F11BBF300][0000023F0B8B40C0 49] Android_PowerVR_GE8xxx, [0000023F11C0E200][0000023F0B8B8240 49] Android_PowerVR_GM9xxx, [0000023F11BBEA00][0000023F0B8BC3C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000023F11C0DF00][0000023F0B8C0540 49] Android_TegraK1, [0000023F11BBCA00][0000023F0B8C46C0 49] Android_Unknown_Vulkan, [0000023F11C0F600][0000023F0B8C8840 49] Lumin, [0000023F11BBDF00][0000023F0B8CC9C0 49] Lumin_Desktop, [0000023F11BF2A00][0000023F0B8D0B40 49] HoloLens, 
+[2022.06.22-01.48.47:379][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.22-01.48.47:379][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.22-01.48.47:379][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.22-01.48.47:379][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.22-01.48.47:379][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.22-01.48.47:400][  0]LogNetVersion: collisions 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1446751447)
+[2022.06.22-01.48.47:893][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.22-01.48.47:954][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.22-01.48.47:961][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.06.22-01.48.47:961][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.06.22-01.48.47:961][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.22-01.48.48:240][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 91B8D70642B22C52561E2A9AE2EA33B9 | Instance: 990FD1BB479168895BB5DEAEBBDCC63E (DESKTOP-13JHO61-3140).
+[2022.06.22-01.48.48:368][  0]LogPython: Using Python 3.7.7
+[2022.06.22-01.48.49:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.22-01.48.49:064][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.22-01.48.49:205][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.49:205][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.49:208][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.49:211][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.49:221][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.49:227][  0]LogUProjectInfo: Found projects:
+[2022.06.22-01.48.49:468][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.22-01.48.49:501][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.22-01.48.49:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.22-01.48.49:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.22-01.48.49:649][  0]LogCollectionManager: Loaded 0 collections in 0.001979 seconds
+[2022.06.22-01.48.49:675][  0]LogFileCache: Scanning file cache for directory 'G:/папки/проэкты программирования/Unreal projects/collisions/Saved/Collections/' took 0.00s
+[2022.06.22-01.48.49:675][  0]LogFileCache: Scanning file cache for directory 'G:/папки/проэкты программирования/Unreal projects/collisions/Content/Developers/SWAdmin/Collections/' took 0.00s
+[2022.06.22-01.48.49:675][  0]LogFileCache: Scanning file cache for directory 'G:/папки/проэкты программирования/Unreal projects/collisions/Content/Collections/' took 0.00s
+[2022.06.22-01.48.49:675][  0]LogOcInput: OculusInput pre-init called
+[2022.06.22-01.48.50:052][  0]LogEngine: Initializing Engine...
+[2022.06.22-01.48.50:227][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.22-01.48.50:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.22-01.48.50:241][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.22-01.48.50:241][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.22-01.48.50:401][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.22-01.48.50:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.22-01.48.50:414][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.22-01.48.50:417][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.22-01.48.50:417][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.22-01.48.50:418][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.22-01.48.50:418][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.22-01.48.50:431][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.22-01.48.50:431][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.22-01.48.50:458][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.06.22-01.48.50:460][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.22-01.48.50:462][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.22-01.48.50:462][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.22-01.48.50:463][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.22-01.48.50:463][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.22-01.48.50:463][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.22-01.48.50:464][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.22-01.48.50:464][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.22-01.48.50:464][  0]LogInit: FAudioDevice initialized.
+[2022.06.22-01.48.50:464][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.22-01.48.50:465][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.22-01.48.50:562][  0]LogDerivedDataCache: Saved boot cache 0.10s 94MB C:/Users/SWAdmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.22-01.48.50:565][  0]LogInit: Texture streaming: Enabled
+[2022.06.22-01.48.50:576][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.06.22-01.48.50:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.22-01.48.50:579][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.22-01.48.50:580][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.22-01.48.50:600][  0]LogInit: Transaction tracking system initialized
+[2022.06.22-01.48.50:621][  0]BlueprintLog: New page: Editor Load
+[2022.06.22-01.48.50:683][  0]LocalizationService: Localization service is disabled
+[2022.06.22-01.48.50:738][  0]TimingProfiler: Initialize
+[2022.06.22-01.48.50:738][  0]TimingProfiler: OnSessionChanged
+[2022.06.22-01.48.50:738][  0]LoadingProfiler: Initialize
+[2022.06.22-01.48.50:738][  0]LoadingProfiler: OnSessionChanged
+[2022.06.22-01.48.50:738][  0]NetworkingProfiler: Initialize
+[2022.06.22-01.48.50:738][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.22-01.48.50:739][  0]MemoryProfiler: Initialize
+[2022.06.22-01.48.50:739][  0]MemoryProfiler: OnSessionChanged
+[2022.06.22-01.48.51:160][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.22-01.48.51:160][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.22-01.48.51:377][  0]LogFileCache: Scanning file cache for directory 'G:/папки/проэкты программирования/Unreal projects/collisions/Content/' took 0.01s
+[2022.06.22-01.48.51:699][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.22-01.48.51:703][  0]SourceControl: Source control is disabled
+[2022.06.22-01.48.51:703][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.049
+[2022.06.22-01.48.51:703][  0]Cmd: MAP LOAD FILE="../../../../../папки/проэкты программирования/Unreal projects/collisions/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.22-01.48.51:703][  0]LightingResults: New page: Lighting Build
+[2022.06.22-01.48.51:705][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.22-01.48.51:705][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.22-01.48.51:705][  0]MapCheck: New page: Map Check
+[2022.06.22-01.48.51:706][  0]LightingResults: New page: Lighting Build
+[2022.06.22-01.48.51:714][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.22-01.48.51:717][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.22-01.48.52:447][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.06.22-01.48.52:448][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.06.22-01.48.52:604][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.22-01.48.52:608][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.06.22-01.48.52:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.06.22-01.48.52:757][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.22-01.48.52:758][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2022.06.22-01.48.52:758][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.055
+[2022.06.22-01.48.52:761][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.107
+[2022.06.22-01.48.53:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.22-01.48.53:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.22-01.48.53:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.22-01.48.53:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.22-01.48.53:647][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0162 seconds. Added 3822 classes and 928 folders.
+[2022.06.22-01.48.53:706][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.22-01.48.53:883][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.22-01.48.53:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.53:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.22-01.48.53:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.53:884][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.22-01.48.53:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.06.22-01.48.53:921][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.22-01.48.53:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.53:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.22-01.48.53:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.53:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.22-01.48.53:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.06.22-01.48.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.22-01.48.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.22-01.48.53:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.53:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.22-01.48.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.53:968][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.22-01.48.53:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.53:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.22-01.48.53:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.53:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.22-01.48.53:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.06.22-01.48.53:987][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.22-01.48.53:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.53:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.22-01.48.53:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.53:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.22-01.48.53:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.06.22-01.48.54:049][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.22-01.48.54:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.22-01.48.54:049][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:049][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.22-01.48.54:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.06.22-01.48.54:070][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.22-01.48.54:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.22-01.48.54:070][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:070][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.22-01.48.54:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:085][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.22-01.48.54:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.22-01.48.54:085][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:085][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.22-01.48.54:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.06.22-01.48.54:099][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.22-01.48.54:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.22-01.48.54:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.22-01.48.54:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.06.22-01.48.54:124][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.22-01.48.54:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.22-01.48.54:124][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:124][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.22-01.48.54:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.06.22-01.48.54:129][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.22-01.48.54:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.22-01.48.54:129][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:129][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.22-01.48.54:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.06.22-01.48.54:138][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.22-01.48.54:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.22-01.48.54:138][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:138][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.22-01.48.54:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:139][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.22-01.48.54:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.22-01.48.54:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.22-01.48.54:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.06.22-01.48.54:141][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.22-01.48.54:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.22-01.48.54:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.22-01.48.54:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.06.22-01.48.54:143][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.22-01.48.54:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.22-01.48.54:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.22-01.48.54:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:144][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.22-01.48.54:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.22-01.48.54:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.22-01.48.54:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.06.22-01.48.54:146][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.22-01.48.54:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.22-01.48.54:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.22-01.48.54:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:148][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.22-01.48.54:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.22-01.48.54:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.22-01.48.54:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.06.22-01.48.54:149][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.22-01.48.54:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.22-01.48.54:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.22-01.48.54:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.06.22-01.48.54:151][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.22-01.48.54:151][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:151][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.22-01.48.54:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.22-01.48.54:151][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.06.22-01.48.54:156][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.22-01.48.54:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.22-01.48.54:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.22-01.48.54:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.06.22-01.48.54:166][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.22-01.48.54:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.22-01.48.54:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.22-01.48.54:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.06.22-01.48.54:176][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.22-01.48.54:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.22-01.48.54:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.22-01.48.54:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:185][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.22-01.48.54:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.22-01.48.54:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.22-01.48.54:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:187][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.22-01.48.54:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.22-01.48.54:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.22-01.48.54:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.22-01.48.54:189][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.22-01.48.54:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.22-01.48.54:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.22-01.48.54:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/programmi/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.22-01.48.54:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/programmi/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.22-01.48.54:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.06.22-01.48.55:221][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.22-01.48.55:297][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.22-01.48.55:822][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.22-01.48.55:837][  0]LogSlate: Took 0.013042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.22-01.48.55:868][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.22-01.48.56:253][  0]LogRenderer: Reallocating scene render targets to support 888x716 Format 10 NumSamples 1 (Frame:1).
+[2022.06.22-01.48.58:805][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.22-01.48.58:805][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.22-01.48.58:805][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2022.06.22-01.48.58:805][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.22-01.48.58:805][  0]LogLoad: (Engine Initialization) Total time: 17.15 seconds
+[2022.06.22-01.48.58:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.22-01.48.59:191][  0]LogAssetRegistry: Asset discovery search completed in 12.2759 seconds
+[2022.06.22-01.48.59:196][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.22-01.48.59:230][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.22-01.48.59:456][  2]LogSlate: Took 0.011261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.22-01.49.00:072][  4]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.22-01.49.51:205][744]LogHttp: Warning: 0000023F2CCFB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.49.51:205][744]LogHttp: Warning: 0000023F2CCFB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.49.51:205][744]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.49.51:205][744]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 1 (Closing connection 0)
+[2022.06.22-01.49.51:205][744]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.50.51:120][923]LogHttp: Warning: 0000023F2CCF8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.50.51:120][923]LogHttp: Warning: 0000023F2CCF8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.50.51:120][923]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.50.51:120][923]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 1 (Closing connection 1)
+[2022.06.22-01.50.51:460][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.51.51:134][102]LogHttp: Warning: 0000023F2CCFA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.51.51:134][102]LogHttp: Warning: 0000023F2CCFA400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.51.51:134][102]LogHttp: Warning: 0000023F2CCFA400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.51.51:134][102]LogHttp: Warning: 0000023F2CCFA400: libcurl info message cache 1 (Closing connection 2)
+[2022.06.22-01.51.51:134][102]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.52.51:192][281]LogHttp: Warning: 0000023F2CCFB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.52.51:192][281]LogHttp: Warning: 0000023F2CCFB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.52.51:192][281]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.52.51:192][281]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 1 (Closing connection 3)
+[2022.06.22-01.52.51:534][282]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.53.51:136][460]LogHttp: Warning: 0000023F2CCF8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.53.51:136][460]LogHttp: Warning: 0000023F2CCF8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.53.51:136][460]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.53.51:136][460]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 1 (Closing connection 4)
+[2022.06.22-01.53.51:137][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.54.51:101][639]LogHttp: Warning: 0000023F2CCFA400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.54.51:101][639]LogHttp: Warning: 0000023F2CCFA400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.54.51:101][639]LogHttp: Warning: 0000023F2CCFA400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.54.51:101][639]LogHttp: Warning: 0000023F2CCFA400: libcurl info message cache 1 (Closing connection 5)
+[2022.06.22-01.54.51:437][640]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.55.51:080][818]LogHttp: Warning: 0000023F2CCFB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.55.51:080][818]LogHttp: Warning: 0000023F2CCFB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.55.51:080][818]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.55.51:080][818]LogHttp: Warning: 0000023F2CCFB200: libcurl info message cache 1 (Closing connection 6)
+[2022.06.22-01.55.51:080][818]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.56.51:030][997]LogHttp: Warning: 0000023F3E87CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.56.51:031][997]LogHttp: Warning: 0000023F3E87CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.56.51:031][997]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.56.51:031][997]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 1 (Closing connection 7)
+[2022.06.22-01.56.51:362][998]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.57.51:015][176]LogHttp: Warning: 0000023F3E87D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.57.51:015][176]LogHttp: Warning: 0000023F3E87D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.57.51:015][176]LogHttp: Warning: 0000023F3E87D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.57.51:015][176]LogHttp: Warning: 0000023F3E87D600: libcurl info message cache 1 (Closing connection 8)
+[2022.06.22-01.57.51:015][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.58.51:026][355]LogHttp: Warning: 0000023F3E87EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.58.51:026][355]LogHttp: Warning: 0000023F3E87EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.58.51:026][355]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.58.51:026][355]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 1 (Closing connection 9)
+[2022.06.22-01.58.51:365][356]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-01.59.51:016][534]LogHttp: Warning: 0000023F3E87CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-01.59.51:016][534]LogHttp: Warning: 0000023F3E87CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-01.59.51:016][534]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-01.59.51:016][534]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 1 (Closing connection 10)
+[2022.06.22-01.59.51:017][534]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.00.51:047][713]LogHttp: Warning: 0000023F3E87F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.00.51:047][713]LogHttp: Warning: 0000023F3E87F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.00.51:047][713]LogHttp: Warning: 0000023F3E87F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.00.51:047][713]LogHttp: Warning: 0000023F3E87F200: libcurl info message cache 1 (Closing connection 11)
+[2022.06.22-02.00.51:380][714]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.01.51:014][892]LogHttp: Warning: 0000023F3E87CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.01.51:014][892]LogHttp: Warning: 0000023F3E87CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.01.51:014][892]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.01.51:014][892]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 1 (Closing connection 12)
+[2022.06.22-02.01.51:014][892]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.02.50:987][ 71]LogHttp: Warning: 0000023F3E87EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.02.50:987][ 71]LogHttp: Warning: 0000023F3E87EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.02.50:987][ 71]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.02.50:987][ 71]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 1 (Closing connection 13)
+[2022.06.22-02.02.51:321][ 72]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.03.50:987][250]LogHttp: Warning: 0000023F3E87CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.03.50:987][250]LogHttp: Warning: 0000023F3E87CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.03.50:987][250]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.03.50:987][250]LogHttp: Warning: 0000023F3E87CF00: libcurl info message cache 1 (Closing connection 14)
+[2022.06.22-02.03.50:987][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.04.51:071][429]LogHttp: Warning: 0000023F2CCF8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.04.51:071][429]LogHttp: Warning: 0000023F2CCF8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.04.51:071][429]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.04.51:071][429]LogHttp: Warning: 0000023F2CCF8100: libcurl info message cache 1 (Closing connection 15)
+[2022.06.22-02.04.51:404][430]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.05.51:052][608]LogHttp: Warning: 0000023F3E87EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.05.51:052][608]LogHttp: Warning: 0000023F3E87EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.05.51:052][608]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.05.51:052][608]LogHttp: Warning: 0000023F3E87EB00: libcurl info message cache 1 (Closing connection 16)
+[2022.06.22-02.05.51:052][608]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.06.51:003][787]LogHttp: Warning: 0000023F3E87D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.06.51:003][787]LogHttp: Warning: 0000023F3E87D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.06.51:003][787]LogHttp: Warning: 0000023F3E87D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.06.51:003][787]LogHttp: Warning: 0000023F3E87D600: libcurl info message cache 1 (Closing connection 17)
+[2022.06.22-02.06.51:335][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.07.51:002][966]LogHttp: Warning: 0000023F3E87C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.07.51:002][966]LogHttp: Warning: 0000023F3E87C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.07.51:002][966]LogHttp: Warning: 0000023F3E87C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.07.51:002][966]LogHttp: Warning: 0000023F3E87C800: libcurl info message cache 1 (Closing connection 18)
+[2022.06.22-02.07.51:002][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.08.21:978][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2022.06.22-02.08.27:876][157]Cmd: DELETE
+[2022.06.22-02.08.27:876][157]Cmd: ACTOR DELETE
+[2022.06.22-02.08.28:064][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.28:074][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.28:075][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.28:084][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.22-02.08.28:085][157]LogEditorActor: Deleted 3 Actors (0.173 secs)
+[2022.06.22-02.08.33:283][273]Cmd: TRANSACTION UNDO
+[2022.06.22-02.08.33:283][273]LogEditorTransaction: Undo Delete Actors
+[2022.06.22-02.08.35:735][357]Cmd: DELETE
+[2022.06.22-02.08.35:735][357]Cmd: ACTOR DELETE
+[2022.06.22-02.08.35:745][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.35:745][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.35:746][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.22-02.08.35:756][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.22-02.08.35:757][357]LogEditorActor: Deleted 3 Actors (0.022 secs)
+[2022.06.22-02.08.40:594][432]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.08.50:660][632]LogHttp: Warning: 0000023F64260100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.08.50:660][632]LogHttp: Warning: 0000023F64260100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.08.50:660][632]LogHttp: Warning: 0000023F64260100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.08.50:660][632]LogHttp: Warning: 0000023F64260100: libcurl info message cache 1 (Closing connection 19)
+[2022.06.22-02.08.50:660][632]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.08.59:078][959]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.22-02.08.59:092][959]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.22-02.09.09:608][116]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.22-02.09.09:608][116]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.22-02.09.19:388][265]LogContentBrowser: Attempting asset rename: NewFolder -> 3D_Models
+[2022.06.22-02.09.19:388][265]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.22-02.09.27:417][355]LogAssetTools: Warning: Failed to import 'G:\папки\3д\arcanoid_Map.blend'. Unknown extension 'blend'.
+[2022.06.22-02.09.51:000][475]LogHttp: Warning: 0000023F642AD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.09.51:000][475]LogHttp: Warning: 0000023F642AD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.09.51:000][475]LogHttp: Warning: 0000023F642AD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.09.51:001][475]LogHttp: Warning: 0000023F642AD600: libcurl info message cache 1 (Closing connection 20)
+[2022.06.22-02.09.51:335][476]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.09.56:072][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.22-02.09.56:220][489]LogSavePackage: Moving '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/TopDownExampleMap_Auto188DD765B41CFC9BB9A8AE796367C7C95.tmp' to '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2022.06.22-02.09.56:228][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.164
+[2022.06.22-02.09.56:228][489]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2022.06.22-02.10.51:103][666]LogHttp: Warning: 0000023F3EA60F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.10.51:103][666]LogHttp: Warning: 0000023F3EA60F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.10.51:103][666]LogHttp: Warning: 0000023F3EA60F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.10.51:103][666]LogHttp: Warning: 0000023F3EA60F00: libcurl info message cache 1 (Closing connection 21)
+[2022.06.22-02.10.51:103][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.11.10:583][742]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\папки\3д\arcanoid_Map.obj)
+[2022.06.22-02.11.10:789][742]LogFbx: Loading FBX Scene from G:\папки\3д\arcanoid_Map.obj
+[2022.06.22-02.11.10:830][742]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.22-02.11.14:033][742]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.22-02.11.14:133][742]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D66BE71A4CFDAF32DC33E6F976D901163960E703), compiling. 
+[2022.06.22-02.11.14:166][742]LogFbx: Display: Triangulating static mesh default
+[2022.06.22-02.11.14:214][742]LogStaticMesh: Building static mesh arcanoid_Map...
+[2022.06.22-02.11.14:322][742]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/3D_Models/arcanoid_Map.arcanoid_Map
+[2022.06.22-02.11.14:354][742]LogStaticMesh: Warning: arcanoid_Map has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.06.22-02.11.14:354][742]LogStaticMesh: Warning: arcanoid_Map has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.06.22-02.11.14:376][742]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.06.22-02.11.14:376][742]FBXImport: Warning: arcanoid_Map has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.06.22-02.11.14:376][742]FBXImport: Warning: arcanoid_Map has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.06.22-02.11.14:587][742]LogSlate: Took 0.026787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.22-02.11.14:912][747]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.11.14:914][747]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.11.14:914][747]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.11.14:914][747]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.11.14:989][747]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.14:989][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.06.22-02.11.14:989][747]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.18:373][780]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.06.22-02.11.18:373][780]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.18:416][780]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.22-02.11.18:416][780]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.06.22-02.11.18:416][780]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.06.22-02.11.18:416][780]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.22-02.11.18:416][780]LogShaderCompilers: Display: ================================================
+[2022.06.22-02.11.18:791][784]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.06.22-02.11.18:791][784]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.23:009][823]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.06.22-02.11.23:009][823]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.24:514][836]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.06.22-02.11.24:514][836]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.11.26:807][865]LogSlate: Window 'Message Log' being destroyed
+[2022.06.22-02.11.26:810][865]LogSlate: Window 'Message Log' being destroyed
+[2022.06.22-02.11.31:022][912]LogActorFactory: Actor Factory created arcanoid_Map
+[2022.06.22-02.11.32:386][935]LogActorFactory: Actor Factory created arcanoid_Map
+[2022.06.22-02.11.42:653][115]Cmd: TRANSACTION UNDO
+[2022.06.22-02.11.42:653][115]LogEditorTransaction: Undo Scale Actors
+[2022.06.22-02.11.43:398][142]Cmd: TRANSACTION UNDO
+[2022.06.22-02.11.43:398][142]LogEditorTransaction: Undo Create Actors
+[2022.06.22-02.11.44:156][152]Cmd: TRANSACTION UNDO
+[2022.06.22-02.11.44:156][152]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.06.22-02.11.46:240][183]LogActorFactory: Actor Factory created arcanoid_Map
+[2022.06.22-02.11.49:049][226]LogActorFactory: Actor Factory created arcanoid_Map
+[2022.06.22-02.11.50:709][250]LogHttp: Warning: 0000023F3E820100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.11.50:709][250]LogHttp: Warning: 0000023F3E820100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.11.50:709][250]LogHttp: Warning: 0000023F3E820100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.11.50:709][250]LogHttp: Warning: 0000023F3E820100: libcurl info message cache 1 (Closing connection 22)
+[2022.06.22-02.11.50:709][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.11.54:734][308]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.arcanoid_Map_6.StaticMeshComponent0)
+[2022.06.22-02.11.54:805][309]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.arcanoid_Map_6.StaticMeshComponent0)
+[2022.06.22-02.12.33:918][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.22-02.12.44:485][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.12.50:692][147]LogHttp: Warning: 0000023F2CB44F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.12.50:692][147]LogHttp: Warning: 0000023F2CB44F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.12.50:692][147]LogHttp: Warning: 0000023F2CB44F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.12.50:692][147]LogHttp: Warning: 0000023F2CB44F00: libcurl info message cache 1 (Closing connection 23)
+[2022.06.22-02.12.50:762][148]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.13.50:681][ 77]LogHttp: Warning: 0000023F63843900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.13.50:681][ 77]LogHttp: Warning: 0000023F63843900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.13.50:681][ 77]LogHttp: Warning: 0000023F63843900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.13.50:681][ 77]LogHttp: Warning: 0000023F63843900: libcurl info message cache 1 (Closing connection 24)
+[2022.06.22-02.13.50:751][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.14.43:449][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.22-02.14.50:675][ 22]LogHttp: Warning: 0000023F6439DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.14.50:675][ 22]LogHttp: Warning: 0000023F6439DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.14.50:675][ 22]LogHttp: Warning: 0000023F6439DD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.14.50:675][ 22]LogHttp: Warning: 0000023F6439DD00: libcurl info message cache 1 (Closing connection 25)
+[2022.06.22-02.14.50:675][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.14.51:648][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.15.16:586][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.22-02.15.50:729][912]LogHttp: Warning: 0000023F3E604100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.15.50:729][912]LogHttp: Warning: 0000023F3E604100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.15.50:729][912]LogHttp: Warning: 0000023F3E604100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.15.50:729][912]LogHttp: Warning: 0000023F3E604100: libcurl info message cache 1 (Closing connection 26)
+[2022.06.22-02.15.50:729][912]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.15.55:304][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.16.35:795][859]LogEditorViewport: Clicking on Actor (LMB): BP_Blocks_C (BP_Blocks)
+[2022.06.22-02.16.40:708][921]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/3D_Models/None.Material_0
+[2022.06.22-02.16.40:727][921]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 44CBF1E90E9084015470342628A037BE855901AB), compiling. 
+[2022.06.22-02.16.40:861][921]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.22-02.16.40:861][921]LogShaderCompilers: Display: Total job queries 26, among them cache hits 10 (38.46%)
+[2022.06.22-02.16.40:861][921]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2022.06.22-02.16.40:861][921]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.22-02.16.40:861][921]LogShaderCompilers: Display: ================================================
+[2022.06.22-02.16.40:928][921]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.22-02.16.41:230][921]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.22-02.16.41:756][921]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B0842CDD79A6257831EA5C76047FC8C02AA1642), compiling. 
+[2022.06.22-02.16.41:774][921]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BDAD62741DFA22A87EE4FB2F4E4353E0456D29D), compiling. 
+[2022.06.22-02.16.41:776][921]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 66172A022B56FB1E54D026DFC94761C5734CA4FD), compiling. 
+[2022.06.22-02.16.41:795][921]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.16.41:800][921]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.22-02.16.42:239][922]LogSlate: Took 0.013600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.22-02.16.42:546][923]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.16.42:550][923]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.16.42:551][923]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.16.42:551][923]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.16.42:551][923]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.06.22-02.16.42:551][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.06.22-02.16.42:551][923]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.22-02.16.42:552][923]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.16.45:473][  7]LogSlate: Window 'Material_0' being destroyed
+[2022.06.22-02.16.50:657][225]LogHttp: Warning: 0000023F94928100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.16.50:657][225]LogHttp: Warning: 0000023F94928100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.16.50:657][225]LogHttp: Warning: 0000023F94928100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.16.50:657][225]LogHttp: Warning: 0000023F94928100: libcurl info message cache 1 (Closing connection 27)
+[2022.06.22-02.16.50:722][226]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.16.50:797][227]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.16.52:683][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.16.56:697][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.17.21:221][685]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.17.22:846][763]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.17.25:425][800]LogEditorViewport: Clicking on Actor (LMB): BP_Blocks_C (BP_Blocks)
+[2022.06.22-02.17.50:122][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/BP_Blocks.BP_Blocks
+[2022.06.22-02.17.50:811][136]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.06.22-02.17.52:633][138]LogHttp: Warning: 0000023FAA3C8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.17.52:633][138]LogHttp: Warning: 0000023FAA3C8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.17.52:633][138]LogHttp: Warning: 0000023FAA3C8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.17.52:633][138]LogHttp: Warning: 0000023FAA3C8100: libcurl info message cache 1 (Closing connection 28)
+[2022.06.22-02.17.52:633][138]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.17.55:502][303]LogRenderer: Reallocating scene render targets to support 972x716 Format 10 NumSamples 1 (Frame:1).
+[2022.06.22-02.18.24:359][493]BlueprintLog: New page: Compile BP_Blocks
+[2022.06.22-02.18.24:555][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.06.22-02.18.50:605][960]LogHttp: Warning: 0000023F88251600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.18.50:605][960]LogHttp: Warning: 0000023F88251600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.18.50:605][960]LogHttp: Warning: 0000023F88251600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.18.50:605][960]LogHttp: Warning: 0000023F88251600: libcurl info message cache 1 (Closing connection 29)
+[2022.06.22-02.18.50:605][960]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.19.21:985][768]LogSavePackage: Moving '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/BP_BlocksC0C837F04F7ADA50D39EAEAF9FAD37AA.tmp' to '../../../../../папки/проэкты программирования/Unreal projects/collisions/Content/TopDownBP/Blueprints/BP_Blocks.uasset'
+[2022.06.22-02.19.21:998][768]AssetCheck: New page: Asset Save: BP_Blocks
+[2022.06.22-02.19.21:998][768]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/BP_Blocks.BP_Blocks
+[2022.06.22-02.19.35:535][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/BP_Colors.BP_Colors
+[2022.06.22-02.19.50:684][807]LogHttp: Warning: 0000023FB4831600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.19.50:684][807]LogHttp: Warning: 0000023FB4831600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.19.50:685][807]LogHttp: Warning: 0000023FB4831600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.19.50:685][807]LogHttp: Warning: 0000023FB4831600: libcurl info message cache 1 (Closing connection 30)
+[2022.06.22-02.19.50:752][808]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.20.12:414][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.20.42:082][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.06.22-02.20.42:411][221]LogSavePackage: Moving '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/TopDownExampleMap_Auto2B674AD1B4A0B2858FDDF7EB63B039C66.tmp' to '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2022.06.22-02.20.42:412][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.371
+[2022.06.22-02.20.42:412][221]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.371
+[2022.06.22-02.20.42:418][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/3D_Models/arcanoid_Map] ([1] browsable assets)...
+[2022.06.22-02.20.42:443][221]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/3D_Models/arcanoid_Map.arcanoid_Map]
+[2022.06.22-02.20.42:443][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/3D_Models/arcanoid_Map]
+[2022.06.22-02.20.42:464][221]LogSavePackage: Moving '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/arcanoid_Map_Auto28C74AE5F4B44F49B9A88098AC7AFC12E.tmp' to '../../../../../папки/проэкты программирования/Unreal projects/collisions/Saved/Autosaves/Game/Geometry/3D_Models/arcanoid_Map_Auto2.uasset'
+[2022.06.22-02.20.42:465][221]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.06.22-02.20.43:990][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.20.50:681][337]LogHttp: Warning: 0000023F8CA18F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.20.50:681][337]LogHttp: Warning: 0000023F8CA18F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.20.50:681][337]LogHttp: Warning: 0000023F8CA18F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.20.50:681][337]LogHttp: Warning: 0000023F8CA18F00: libcurl info message cache 1 (Closing connection 31)
+[2022.06.22-02.20.50:753][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.20.55:833][420]LogActorFactory: Actor Factory created Plane
+[2022.06.22-02.20.57:156][439]LogActorFactory: Actor Factory created Plane
+[2022.06.22-02.21.50:766][285]LogHttp: Warning: 0000023F889A9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.21.50:766][285]LogHttp: Warning: 0000023F889A9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.21.50:766][285]LogHttp: Warning: 0000023F889A9600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.21.50:766][285]LogHttp: Warning: 0000023F889A9600: libcurl info message cache 1 (Closing connection 32)
+[2022.06.22-02.21.50:872][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.22.24:793][111]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.22-02.22.50:599][630]LogHttp: Warning: 0000023FAA98F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.22.50:599][630]LogHttp: Warning: 0000023FAA98F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.22.50:599][630]LogHttp: Warning: 0000023FAA98F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.22.50:599][630]LogHttp: Warning: 0000023FAA98F200: libcurl info message cache 1 (Closing connection 33)
+[2022.06.22-02.22.50:599][630]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.22.52:783][760]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FEA66DBFB85B5FA6515B618C0066E287CB56E2F9), compiling. 
+[2022.06.22-02.22.52:802][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.22-02.22.52:802][761]LogShaderCompilers: Display: Total job queries 41, among them cache hits 23 (56.10%)
+[2022.06.22-02.22.52:802][761]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 14 distinct outputs (77.78%)
+[2022.06.22-02.22.52:802][761]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.22-02.22.52:802][761]LogShaderCompilers: Display: ================================================
+[2022.06.22-02.23.50:964][569]LogHttp: Warning: 0000023F85E10100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.23.50:964][569]LogHttp: Warning: 0000023F85E10100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.23.50:964][569]LogHttp: Warning: 0000023F85E10100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.23.50:964][569]LogHttp: Warning: 0000023F85E10100: libcurl info message cache 1 (Closing connection 34)
+[2022.06.22-02.23.51:296][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.24.44:674][ 97]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial
+[2022.06.22-02.24.44:675][ 97]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F43363DB20C44F122C90A00E5864A588A1815BED), compiling. 
+[2022.06.22-02.24.44:691][ 97]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.44:738][ 97]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 91FD873EBFEFB27372314A127BF5A403FD3C4545), compiling. 
+[2022.06.22-02.24.44:740][ 97]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3948ED7041FE7D298454293B9E692E08B6DCB7FF), compiling. 
+[2022.06.22-02.24.44:746][ 97]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.06.22-02.24.44:841][ 98]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.44:843][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.24.46:788][201]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.06.22-02.24.46:788][201]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.50:625][427]LogHttp: Warning: 0000023FCC027900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.24.50:625][427]LogHttp: Warning: 0000023FCC027900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.24.50:625][427]LogHttp: Warning: 0000023FCC027900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.24.50:625][427]LogHttp: Warning: 0000023FCC027900: libcurl info message cache 1 (Closing connection 35)
+[2022.06.22-02.24.50:641][428]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.24.51:799][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.06.22-02.24.51:799][496]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.51:801][496]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.24.52:636][544]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.06.22-02.24.52:636][544]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.24.56:140][737]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.22-02.24.56:140][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.22-02.24.56:140][737]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.22-02.24.56:140][737]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.24.59:479][936]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialEditor_MaterialProperties'
+[2022.06.22-02.25.06:751][372]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2022.06.22-02.25.10:768][612]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2022.06.22-02.25.11:401][650]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialPalette'
+[2022.06.22-02.25.15:778][909]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2022.06.22-02.25.50:604][993]LogHttp: Warning: 0000023FCBEF4F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.25.50:604][993]LogHttp: Warning: 0000023FCBEF4F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.25.50:604][993]LogHttp: Warning: 0000023FCBEF4F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.25.50:604][993]LogHttp: Warning: 0000023FCBEF4F00: libcurl info message cache 1 (Closing connection 36)
+[2022.06.22-02.25.50:619][994]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.26.50:638][509]LogHttp: Warning: 0000023FCC013900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.26.50:638][509]LogHttp: Warning: 0000023FCC013900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.26.50:638][509]LogHttp: Warning: 0000023FCC013900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.26.50:638][509]LogHttp: Warning: 0000023FCC013900: libcurl info message cache 1 (Closing connection 37)
+[2022.06.22-02.26.50:655][510]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.27.50:615][ 68]LogHttp: Warning: 0000023FCCBA9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.27.50:615][ 68]LogHttp: Warning: 0000023FCCBA9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.27.50:615][ 68]LogHttp: Warning: 0000023FCCBA9D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.27.50:615][ 68]LogHttp: Warning: 0000023FCCBA9D00: libcurl info message cache 1 (Closing connection 38)
+[2022.06.22-02.27.50:615][ 68]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.28.07:550][ 81]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4F2B833C4449C2C06C3F6D92C1D8DC01BF1F58B3), compiling. 
+[2022.06.22-02.28.07:553][ 81]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AC4F33459287E88ED394127C00152F016C77FD78), compiling. 
+[2022.06.22-02.28.07:555][ 81]LogMaterial: Warning: [AssetLog] /Engine/Transient.TutorialMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.22-02.28.07:555][ 81]LogMaterial: Display: 	(Node Desaturation) Missing Desaturation input
+[2022.06.22-02.28.07:559][ 81]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2022.06.22-02.28.12:119][349]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1DA333F3DFB530AEBE4839C247CBB93A59771C6F), compiling. 
+[2022.06.22-02.28.12:122][349]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.28.12:167][350]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.22-02.28.12:167][350]LogShaderCompilers: Display: Total job queries 73, among them cache hits 35 (47.95%)
+[2022.06.22-02.28.12:167][350]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2022.06.22-02.28.12:167][350]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.22-02.28.12:167][350]LogShaderCompilers: Display: ================================================
+[2022.06.22-02.28.12:176][351]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.22-02.28.12:176][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.22-02.28.12:176][351]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.22-02.28.12:176][351]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.28.20:238][824]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D068FD0EC0E97A7BE7A2D692D57932587A6E926D), compiling. 
+[2022.06.22-02.28.20:240][824]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 98FCAF70511AAF63B6151A0DC136592C1B523153), compiling. 
+[2022.06.22-02.28.20:257][825]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.28.20:257][825]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.28.20:257][825]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.28.20:257][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.28.20:269][826]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.22-02.28.20:269][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.06.22-02.28.20:269][826]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.28.20:337][829]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.28.20:337][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.28.22:469][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.06.22-02.28.22:469][952]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.28.23:035][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.06.22-02.28.23:035][984]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.28.23:175][989]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.28.23:175][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.28.23:182][989]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureCoordinate_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CBE88BBAAFF051898ED76ABABDD2A5544A937658), compiling. 
+[2022.06.22-02.28.23:198][991]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.28.28:664][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.06.22-02.28.28:664][309]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.28.28:939][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.06.22-02.28.28:939][325]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.28.29:525][359]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.06.22-02.28.29:525][359]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.28.32:360][524]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.06.22-02.28.32:360][524]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.06.22-02.28.32:360][524]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.22-02.28.32:360][524]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.28.32:360][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.28.39:711][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.06.22-02.28.48:377][ 32]LogMaterialEditor: Saving and Compiling material Material_0
+[2022.06.22-02.28.48:738][ 32]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A3649D3F5183058353302582BAE659E85537FDC5), compiling. 
+[2022.06.22-02.28.48:764][ 32]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D7ACCC52A48E6BFB0DAB7EE14EDF3B2681FD41B5), compiling. 
+[2022.06.22-02.28.48:912][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.22-02.28.49:074][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.22-02.28.51:575][ 32]LogSlate: Window 'Message' being destroyed
+[2022.06.22-02.28.51:579][ 32]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2022.06.22-02.28.51:585][ 32]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Geometry/3D_Models/None
+[2022.06.22-02.28.53:003][ 32]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2022.06.22-02.28.54:046][ 32]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.06.22-02.28.54:050][ 32]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Geometry/3D_Models/None
+[2022.06.22-02.28.54:051][ 32]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.06.22-02.28.54:051][ 32]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.06.22-02.28.54:051][ 32]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.22-02.28.54:051][ 32]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.22-02.28.54:133][ 34]LogHttp: Warning: 0000023F94808800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.28.54:133][ 34]LogHttp: Warning: 0000023F94808800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.28.54:133][ 34]LogHttp: Warning: 0000023F94808800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.28.54:134][ 34]LogHttp: Warning: 0000023F94808800: libcurl info message cache 1 (Closing connection 39)
+[2022.06.22-02.28.54:134][ 34]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.29.14:850][253]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C5CF76ED43DB3CEEF276C06F77E46591988F52AD), compiling. 
+[2022.06.22-02.29.14:853][253]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 592A11C2F41F00DDA65F3C11118097D521B90707), compiling. 
+[2022.06.22-02.29.14:872][254]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.14:872][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.29.14:872][254]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.29.14:872][254]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.14:885][255]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.14:885][255]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.06.22-02.29.14:885][255]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.14:940][257]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.29.14:940][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.29.16:827][365]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureCoordinate_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E5944486413DF6B8278881DE16B3BBB592B298CB), compiling. 
+[2022.06.22-02.29.17:708][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.06.22-02.29.17:708][412]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.19:180][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.06.22-02.29.19:180][495]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.20:400][561]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.29.20:400][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.29.21:861][642]LogMaterialEditor: Saving and Compiling material Material_0
+[2022.06.22-02.29.22:346][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.29.22:347][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.22:370][642]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 245D5C13C63E25DC8C2811904CC609F327E59256), compiling. 
+[2022.06.22-02.29.22:403][642]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C6EF84423ADE20DE3338E14A9955B784BD5E4A0F), compiling. 
+[2022.06.22-02.29.22:462][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.06.22-02.29.22:472][642]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.06.22-02.29.22:960][642]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.22:960][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.22-02.29.23:302][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.29.23:302][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.29.24:511][642]LogSlate: Window 'Message' being destroyed
+[2022.06.22-02.29.24:515][642]Message dialog closed, result: Ok, title: Message, text: A file/folder may not match any of the following : 
+CON, PRN, AUX, CLOCK$, NUL, NONE, 
+COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, 
+LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
+[2022.06.22-02.29.24:519][642]LogFileHelpers: Warning: The following assets are writable on disk but not checked out from source control:
+/Game/Geometry/3D_Models/None
+[2022.06.22-02.29.25:889][642]LogSlate: Window 'Writable Assets Not Checked Out' being destroyed
+[2022.06.22-02.29.26:911][642]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.06.22-02.29.26:915][642]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Geometry/3D_Models/None
+[2022.06.22-02.29.26:927][642]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.06.22-02.29.26:927][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.06.22-02.29.26:927][642]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.22-02.29.26:927][642]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.22-02.29.26:927][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.29.30:987][743]LogSlate: Window 'Message' being destroyed
+[2022.06.22-02.29.30:991][743]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.22-02.29.31:338][743]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3ED13AC76B7DC3364C3F7D096EEC1C401152A53A), compiling. 
+[2022.06.22-02.29.31:370][743]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ED2391A05DD856326E1DFF84C3BEFDE6A1E4F9DE), compiling. 
+[2022.06.22-02.29.31:414][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.22-02.29.31:422][743]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.31:664][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.06.22-02.29.31:664][743]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.29.31:664][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.22-02.29.31:679][743]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.22-02.29.31:679][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.22-02.29.50:618][424]LogHttp: Warning: 0000023F3E52CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.29.50:618][424]LogHttp: Warning: 0000023F3E52CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.29.50:619][424]LogHttp: Warning: 0000023F3E52CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.29.50:619][424]LogHttp: Warning: 0000023F3E52CF00: libcurl info message cache 1 (Closing connection 40)
+[2022.06.22-02.29.50:619][424]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.30.13:305][767]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 889E25F5F71370436CBFD90EBB07D8D6EF064783), compiling. 
+[2022.06.22-02.30.13:308][767]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureCoordinate_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DBDF1FE27F5FCDCC559AE5010951662FBBE1B1BC), compiling. 
+[2022.06.22-02.30.13:311][767]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7788D0B19C77B243902C8AAE0625EA3C8159129C), compiling. 
+[2022.06.22-02.30.13:314][767]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.22-02.30.13:314][767]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.30.13:359][769]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.30.13:371][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.22-02.30.13:371][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.22-02.30.13:371][769]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.30.13:371][769]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.22-02.30.13:377][769]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.06.22-02.30.13:377][769]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.30.13:391][769]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.30.16:305][941]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.06.22-02.30.16:305][941]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.30.18:334][ 58]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.06.22-02.30.18:334][ 58]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.22-02.30.18:353][ 59]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.30.18:353][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.30.18:804][ 80]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.06.22-02.30.18:804][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.30.20:936][199]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.06.22-02.30.20:936][199]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.30.24:300][380]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.06.22-02.30.24:300][380]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.22-02.30.26:543][451]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.06.22-02.30.26:543][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.06.22-02.30.26:543][451]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.22-02.30.26:543][451]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.22-02.30.26:543][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.22-02.30.50:619][771]LogHttp: Warning: 0000023F03559D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.30.50:619][771]LogHttp: Warning: 0000023F03559D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.30.50:619][771]LogHttp: Warning: 0000023F03559D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.30.50:619][771]LogHttp: Warning: 0000023F03559D00: libcurl info message cache 1 (Closing connection 41)
+[2022.06.22-02.30.50:638][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.31.40:282][138]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 2010.00,4590.00,-510.00
+[2022.06.22-02.31.42:459][170]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -520.00,220.00,0.00
+[2022.06.22-02.31.50:860][218]LogHttp: Warning: 0000023FC2808F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.31.50:860][218]LogHttp: Warning: 0000023FC2808F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.31.50:860][218]LogHttp: Warning: 0000023FC2808F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.31.50:860][218]LogHttp: Warning: 0000023FC2808F00: libcurl info message cache 1 (Closing connection 42)
+[2022.06.22-02.31.50:860][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.32.30:223][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.06.22-02.32.32:669][540]LogEditorViewport: Clicking on Actor (LMB): BP_Blocks_C (BP_Blocks)
+[2022.06.22-02.32.33:597][552]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.06.22-02.32.48:191][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.06.22-02.32.50:653][702]LogHttp: Warning: 0000023FCD32C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.32.50:653][702]LogHttp: Warning: 0000023FCD32C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.32.50:653][702]LogHttp: Warning: 0000023FCD32C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.32.50:653][702]LogHttp: Warning: 0000023FCD32C100: libcurl info message cache 1 (Closing connection 43)
+[2022.06.22-02.32.50:653][702]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.32.50:727][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.22-02.32.52:812][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.32.54:976][757]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.06.22-02.33.48:276][182]Cmd: TRANSACTION UNDO
+[2022.06.22-02.33.48:276][182]LogEditorTransaction: Undo Move Actors
+[2022.06.22-02.33.48:442][182]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C5B75085A18FA985A866F3825BCD24FDE0BB9C47), compiling. 
+[2022.06.22-02.33.48:737][184]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.22-02.33.48:737][184]LogShaderCompilers: Display: Total job queries 194, among them cache hits 109 (56.19%)
+[2022.06.22-02.33.48:737][184]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 40 distinct outputs (57.97%)
+[2022.06.22-02.33.48:737][184]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.06.22-02.33.48:737][184]LogShaderCompilers: Display: ================================================
+[2022.06.22-02.33.50:787][217]LogHttp: Warning: 0000023FAA34DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.33.50:787][217]LogHttp: Warning: 0000023FAA34DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.33.50:787][217]LogHttp: Warning: 0000023FAA34DD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.33.50:787][217]LogHttp: Warning: 0000023FAA34DD00: libcurl info message cache 1 (Closing connection 44)
+[2022.06.22-02.33.50:909][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.34.50:843][732]LogHttp: Warning: 0000023FB0319D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.34.50:844][732]LogHttp: Warning: 0000023FB0319D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.34.50:844][732]LogHttp: Warning: 0000023FB0319D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.34.50:844][732]LogHttp: Warning: 0000023FB0319D00: libcurl info message cache 1 (Closing connection 45)
+[2022.06.22-02.34.50:844][732]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.35.14:752][922]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.22-02.35.16:677][  5]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.06.22-02.35.50:669][340]LogHttp: Warning: 0000023FD4C48F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.22-02.35.50:669][340]LogHttp: Warning: 0000023FD4C48F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.22-02.35.50:669][340]LogHttp: Warning: 0000023FD4C48F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.22-02.35.50:669][340]LogHttp: Warning: 0000023FD4C48F00: libcurl info message cache 1 (Closing connection 46)
+[2022.06.22-02.35.50:669][340]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7351708C-448D-3E57-F277-14B7ECC653D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=af3730b24172b557adcb28aae9a588da%7C8afcdf41cfd04f3dbaf10fe4893678f6%7C859b4eaf-364d-4972-ba22-3e0c6496d271&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.22-02.36.01:306][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.06.22-02.36.03:108][493]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.06.22-02.36.05:809][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arcanoid_Map)
+[2022.06.22-02.36.05:980][521]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.22-02.36.07:910][573]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.06.22-02.36.26:625][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.06.22-02.36.41:741][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
